@@ -12,6 +12,7 @@ const App = () => (
     <div className={`bg-primary ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
         <Hero />
+      
       </div>
     </div>
     
@@ -19,6 +20,7 @@ const App = () => (
       <div className={`${styles.boxWidth}`}>
         <Stats />
         <Business />
+
         <Billing />
         <CardDeal />
         <Testimonials />
