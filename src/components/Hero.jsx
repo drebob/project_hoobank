@@ -1,5 +1,4 @@
 import styles from "../style";
-import { discount, robot } from "../assets";
 import GetStarted from "./GetStarted";
 
 const Hero = () => {
@@ -27,9 +26,7 @@ const Hero = () => {
 
       
 
-      <div className={`ss:hidden ${styles.flexCenter}`}>
-        <GetStarted />
-      </div>
+    
     </section>
   );
 };
