@@ -3,7 +3,7 @@ import Button from "./Button";
 
 
 
-const Business2 = () =>  (
+const About = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <p className={`${styles.paragraph} mt-5`}>
@@ -22,4 +22,4 @@ const Business2 = () =>  (
   </section>
 );
 
-export default Business2;
+export default About;

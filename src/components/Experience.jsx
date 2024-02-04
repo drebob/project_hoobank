@@ -1,5 +1,5 @@
 
-const Business = () => (
+const Experience = () => (
   <div>
 
     <div className="grid flex-col p-6 rounded-[20px] mb-6 ml-3 sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 feature-card">
@@ -61,4 +61,4 @@ const Business = () => (
 
 
 
-export default Business;
+export default Experience;
