@@ -4,7 +4,7 @@ import Button from "./Button";
 
 
 const About = () =>  (
-  <section id="about" className={'flex md:flex-row flex-col'}>
+  <section id="about" className={'flex md:flex-row flex-col pt-24'}>
     <div className={layout.sectionInfo}>
       <p className={`font-poppins font-normal text-dimWhite text-[16px] leading-[22.8px]`}>
       My journey in graphic and web design started with personalizing my MySpace profile and evolved into a career crafting digital experiences for diverse industries. I’ve designed and developed websites for commercial real estate, drone photography, and a century-old accordion manufacturer. Currently, I'm the lead front-end designer and developer for Fairytale Brownies, responsible for maintaining and updating Brownies.com.
