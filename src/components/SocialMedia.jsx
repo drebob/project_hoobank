@@ -1,4 +1,3 @@
-import styles from "../style";
 
 const SocialMedia = () => {
   return (
